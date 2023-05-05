@@ -3,7 +3,7 @@
 - 🎒 Atualmente estou estudando engenharia da computação na Unaerp
 - 📚 Estudando por parte também desenvolvimento front-end e desenvolvimento de games
 
-
+<hr>
 <div align="center">
   <details open>
     <summary style="margin-bottom:10px;">Estatísticas do GitHub 👾</summary>
@@ -14,4 +14,12 @@
       <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IcaroPallone&layout=compact&langs_count=10&theme=radical&include_all_commits=true&count_private=true">
     </div>
   </details>
+</div>
+
+  <hr>
+  <div> 
+  <a href="https://www.instagram.com/icaro_pallone/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "icopallone@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/icaro-squassoni-pallone-164454204/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 </div>
