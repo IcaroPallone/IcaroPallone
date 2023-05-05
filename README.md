@@ -3,7 +3,7 @@
 - 🎒 Atualmente estou estudando engenharia da computação na Unaerp
 - 📚 Estudando por parte também desenvolvimento front-end e desenvolvimento de games
 
-<hr>
+
 <div align="center">
   <details open>
     <summary style="margin-bottom:10px;">Estatísticas do GitHub 👾</summary>
