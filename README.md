@@ -1,16 +1,17 @@
-### Hi there 👋
+##  👋 Olá eu sou o Icaro Pallone e bem vindos ao meu repositório GitHub!
 
-<!--
-**IcaroPallone/IcaroPallone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎒 Atualmente estou estudando engenharia da computação na Unaerp
+- 📚 Estudando por parte também desenvolvimento front-end e desenvolvimento de games
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+<div align="center">
+  <details open>
+    <summary style="margin-bottom:10px;">GitHub stats 😁</summary>
+    <a href="https://github-readme-streak-stats.herokuapp.com/?user=LucasRiul&theme=monokai-metallian&hide_border=true"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasRiul&theme=monokai-metallian&hide_border=true"/></a>
+    <div style="display:flex; justify-content: space-between">
+      <a href="https://github.com/LucasRiul">
+      <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=LucasRiul&show_icons=true&theme=radical&count_private=true&show_icons=true&include_all_commits=true">
+      <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRiul&layout=compact&langs_count=10&theme=radical&include_all_commits=true&count_private=true">
+    </div>
+  </details>
+</div>
