@@ -2,6 +2,7 @@
 
 - 🎒 Atualmente estou estudando engenharia da computação na Unaerp
 - 📚 Estudando por parte também desenvolvimento front-end e desenvolvimento de games
+- 🧠 Aprendendo Unreal 5, Unity, e Flutter/dart
 
 <hr>
 <div align="center">
@@ -17,7 +18,7 @@
 </div>
 <hr>
   
-## Redes Sociais para contato:
+## 📧 Redes Sociais para contato:
   <div> 
   <a href="https://www.linkedin.com/in/icaro-squassoni-pallone-164454204/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:icopallone@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
