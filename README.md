@@ -16,8 +16,8 @@
   </details>
 </div>
 
+  ## Redes Sociais para contato:
   <hr>
- ## Redes Sociais para contato:
   <div> 
   <a href="https://www.instagram.com/icaro_pallone/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "icopallone@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
